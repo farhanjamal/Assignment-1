@@ -1,0 +1,52 @@
+div {
+  height: 600px;
+  width: 400px;
+  float: left;
+  margin: 3px;
+}
+
+.second{
+  margin-left: 250px;
+  margin-top: 100px;
+  width: 300px;
+  height: 510px;
+
+}
+
+.third {
+  float: right;
+  width: 350px;
+}
+
+.fourh {
+  height: 30px;
+  float: left;
+}
+
+.fifth {
+  margin-top: 480px;
+  height: 20px;
+  width: 300px;
+  float: right;
+}
+
+.river {
+  height: 600px;
+  width: 600px;
+  float: left;
+  clip-path: polygon(0 0, 100% 50%, 100% 50%, 0 100%);
+}
+
+.logo {
+  float: right;
+  width: 300px;
+}
+
+input, button {
+  margin: 3px;
+  padding: 3px;
+}
+
+button {
+  width: 180px;
+}
